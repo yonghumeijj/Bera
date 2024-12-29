@@ -1,4 +1,4 @@
-**简单记录一下Bera链上发生恶意绑定钱包事件：**
+**简单记录一下链上发生的故事：**
 
 **熊链**[Boyco](https://app.stakestone.io/u/vault/detail/bera)存款活动自27号开始，悄悄经历了一场非平常的事件，预存款平台@Stake_Stone上出现涉及安全的事件，涉及4w+钱包的归属问题。
 
