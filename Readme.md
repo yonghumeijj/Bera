@@ -1,12 +1,22 @@
-**简单记录一下链上发生的故事：**
+**简单记录一下Bera链上发生恶意绑定钱包事件：**
 
 **熊链**[Boyco](https://app.stakestone.io/u/vault/detail/bera)存款活动自27号开始，悄悄经历了一场非平常的事件，预存款平台@Stake_Stone上出现涉及安全的事件，涉及4w+钱包的归属问题。
 
-[https://bartio.beratrail.io/token/0xbDa130737BDd9618301681329bF2e46A016ff9Ad/balances](https://bartio.beratrail.io/token/0xbDa130737BDd9618301681329bF2e46A016ff9Ad/balances)
+这里是熊链BGT持币排行榜[https://bartio.beratrail.io/token/0xbDa130737BDd9618301681329bF2e46A016ff9Ad/balances](https://bartio.beratrail.io/token/0xbDa130737BDd9618301681329bF2e46A016ff9Ad/balances)
 
-这里是熊链BGT持币排行榜，下载CSV表单出来后，通过Stake_Stone的官方查询接口，可以查到钱包的绑定关系(如下4张图)，第5w名是BGT持币55个，大于这个数的都可以查查
-![描述](www.baidu.com)
-重回到CSV表格，前5w个钱包，除了北京时间27号早晨8点左右(时间戳1735259148)起，已经绑定了邀请码的账户外，均被绑定为随机邀请码且邀请时间为空(详见熊链BGT持币排行榜.csv)
+下载CSV表单出来后，通过Stake_Stone的官方查询接口，可以查到钱包的绑定关系(如下4张图)，第5w名是BGT持币55个，大于这个数的都可以查查
+
+
+![未激活用户](https://github.com/yonghumeijj/Bera/blob/main/004.jpg)
+
+![正常未绑定](https://github.com/yonghumeijj/Bera/blob/main/001.jpg)
+
+![正常绑定](https://github.com/yonghumeijj/Bera/blob/main/002.jpg)
+
+![恶意绑定](https://github.com/yonghumeijj/Bera/blob/main/003.jpg)
+
+
+重回到CSV表格，前5w个钱包，除了北京时间27号早晨8点左右(时间戳1735259148)起，已经绑定了邀请码的账户外，均被绑定为随机邀请码且邀请时间为空(详见[熊链BGT持币排行榜.csv](https://github.com/yonghumeijj/Bera/blob/main/%E7%86%8A%E9%93%BEBGT%E6%8C%81%E5%B8%81%E6%8E%92%E8%A1%8C%E6%A6%9C.csv))
 
 Stone有20%邀请奖励，可以获得几个大项目方的空投，且BGT排行榜真实用户占比或达9成以上，此次定点邀请的精准度可谓是高！
 
@@ -21,6 +31,7 @@ Stone有20%邀请奖励，可以获得几个大项目方的空投，且BGT排行
 感觉有两种可能
 
 **1.外部原因，被黑客使用某种bug在不需要私钥签名的情况下强制设置邀请关系，危害是可能会涉及项目与资金安全.**
+
 **2.内部原因，直接或间接写入数据库，危害是老鼠仓与公平性.**
 
 两权相害取其轻，结论显而易见.
