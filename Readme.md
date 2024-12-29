@@ -5,7 +5,17 @@
 [https://bartio.beratrail.io/token/0xbDa130737BDd9618301681329bF2e46A016ff9Ad/balances](https://bartio.beratrail.io/token/0xbDa130737BDd9618301681329bF2e46A016ff9Ad/balances)
 
 这里是熊链BGT持币排行榜，下载CSV表单出来后，通过Stake_Stone的官方查询接口，可以查到钱包的绑定关系(如下4张图)，第5w名是BGT持币55个，大于这个数的都可以查查
-![描述](www.baidu.com)
+
+
+![未激活用户](https://github.com/yonghumeijj/Bera/blob/main/004.jpg)
+
+![正常未绑定](https://github.com/yonghumeijj/Bera/blob/main/001.jpg)
+
+![正常绑定](https://github.com/yonghumeijj/Bera/blob/main/002.jpg)
+
+![恶意绑定](https://github.com/yonghumeijj/Bera/blob/main/003.jpg)
+
+
 重回到CSV表格，前5w个钱包，除了北京时间27号早晨8点左右(时间戳1735259148)起，已经绑定了邀请码的账户外，均被绑定为随机邀请码且邀请时间为空(详见熊链BGT持币排行榜.csv)
 
 Stone有20%邀请奖励，可以获得几个大项目方的空投，且BGT排行榜真实用户占比或达9成以上，此次定点邀请的精准度可谓是高！
