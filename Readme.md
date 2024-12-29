@@ -16,7 +16,7 @@
 ![恶意绑定](https://github.com/yonghumeijj/Bera/blob/main/003.jpg)
 
 
-重回到CSV表格，前5w个钱包，除了北京时间27号早晨8点左右(时间戳1735259148)起，已经绑定了邀请码的账户外，均被绑定为随机邀请码且邀请时间为空(详见[熊链BGT持币排行榜.csv](https://github.com/yonghumeijj/Bera/blob/main/%E7%86%8A%E9%93%BEBGT%E6%8C%81%E5%B8%81%E6%8E%92%E8%A1%8C%E6%A6%9C.csv))
+重回到CSV表格，前5w个钱包，除了北京时间27号早晨8点左右(时间戳1735259148)起，已经绑定了邀请码的账户外，均被绑定为随机邀请码且邀请时间为空(详见[stone持币排行榜.txt](https://github.com/yonghumeijj/Bera/blob/main/%E7%86%8A%E9%93%BE%E6%8E%92%E8%A1%8C%E6%A6%9Cstone.txt)
 
 Stone有20%邀请奖励，可以获得几个大项目方的空投，且BGT排行榜真实用户占比或达9成以上，此次定点邀请的精准度可谓是高！
 
